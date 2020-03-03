@@ -1,0 +1,7 @@
+{
+  "/app3/*": {
+    "target": "http://192.168.8.140:8881",
+    "secure": false,
+    "logLevel": "debug"
+  }
+}
